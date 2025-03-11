@@ -134,10 +134,14 @@
     <ClCompile Include="printf3.c" />
     <ClCompile Include="printf4.c" />
     <ClCompile Include="printf99.c" />
+    <ClCompile Include="scanf.c" />
+    <ClCompile Include="scanf2.c" />
     <ClCompile Include="value.c" />
     <ClCompile Include="value2.c" />
     <ClCompile Include="value3.c" />
     <ClCompile Include="value4.c" />
+    <ClCompile Include="value5.c" />
+    <ClCompile Include="value6.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

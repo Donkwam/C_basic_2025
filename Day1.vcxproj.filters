@@ -48,5 +48,17 @@
     <ClCompile Include="value4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="value5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
