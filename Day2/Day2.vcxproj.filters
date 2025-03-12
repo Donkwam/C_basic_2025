@@ -27,5 +27,26 @@
     <ClCompile Include="oper2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="if.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="else.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
