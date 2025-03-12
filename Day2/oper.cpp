@@ -17,5 +17,11 @@ int main()
 	res = ~n;
 	printf("res : %d\n", res);
 
+	res = n << 1;
+	printf("res : %x\n", res);
+
+	res = res >> 1;
+	printf("res : %x\n", res);
+
 	return 0;
 }
