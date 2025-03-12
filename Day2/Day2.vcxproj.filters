@@ -48,5 +48,17 @@
     <ClCompile Include="func.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="func2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="text.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
