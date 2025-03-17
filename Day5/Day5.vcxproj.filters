@@ -30,5 +30,32 @@
     <ClCompile Include="malloc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="malloc2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mallco99.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strut.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stpointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stArry.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
