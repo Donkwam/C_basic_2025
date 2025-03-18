@@ -130,7 +130,12 @@
     <ClCompile Include="cin.cpp" />
     <ClCompile Include="cout.cpp" />
     <ClCompile Include="cout2.cpp" />
+    <ClCompile Include="default.cpp" />
+    <ClCompile Include="default2.cpp" />
+    <ClCompile Include="default3.cpp" />
     <ClCompile Include="Hello.cpp" />
+    <ClCompile Include="namesp.cpp" />
+    <ClCompile Include="overloding.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
