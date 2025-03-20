@@ -14,8 +14,8 @@ public:
 	void showPoint() {
 		printf("x: %d, y: %d\n", x, y);
 	}
-	Point add(const Point& other) {
-		printf("add() call!!\n");
+	const Point& add(const Point& other) {
+		printf("add() !~\n");
 		return Point(x + other.x, y + other.y);
 	}
 	
@@ -27,8 +27,8 @@ int main()
 	//obj.showPoint();
 	Point obj2(30, 40);
 	//obj2.showPoint();
-	//Point obj3;
-	Point obj3 = obj.add(obj2);
+	Point obj3;
+	obj3 = obj.add(obj2);
 	obj3.showPoint();
 	
 	return 0;
