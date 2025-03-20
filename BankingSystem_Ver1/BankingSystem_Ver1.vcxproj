@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4d563a93-5c31-40c1-9d7d-f60e4e20fcc8}</ProjectGuid>
-    <RootNamespace>CDay3</RootNamespace>
+    <ProjectGuid>{2ab68afa-260c-45f0-b3a6-6ff0ae7de36e}</ProjectGuid>
+    <RootNamespace>BankingSystemVer1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,18 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="copyconstructor.cpp" />
-    <ClCompile Include="copyconstructor2.cpp" />
-    <ClCompile Include="moveCon.cpp" />
-    <ClCompile Include="moveCon2.cpp" />
-    <ClCompile Include="operator.cpp" />
-    <ClCompile Include="operator2.cpp" />
-    <ClCompile Include="static.cpp" />
-    <ClCompile Include="static2.cpp" />
-    <ClCompile Include="static3.cpp" />
-    <ClCompile Include="변환생성자.cpp" />
-    <ClCompile Include="변환생성자2.cpp" />
-    <ClCompile Include="변환생성자3.cpp" />
+    <ClCompile Include="BankingSystem_Ver1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
