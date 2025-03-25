@@ -75,6 +75,6 @@ C 기초
 ## 6일차
 - STL(Standard Template Library)
 - container : 객체를 저장하고 관리하는 자료구조
-    1. 시퀀스 컨테이너 - 선형적으로 데이터 저장(순서)
-    2. 연관 컨테이너 - 일정한 규칙으로 저장
+    1. 시퀀스 컨테이너 - 선형적으로 데이터 저장(순서), vector, list, queue
+    2. 연관 컨테이너 - 일정한 규칙으로 저장, set, multiset, map, multimap
     3. 컨테이너 어댑터 - 위에 두개의 변형
